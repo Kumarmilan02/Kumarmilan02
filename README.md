@@ -22,13 +22,15 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kumarmilan02&limit=5&theme=neon&combine_all_yearly_contributions=true)
-
-
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Kumarmilan02/Kumarmilan02/output/snake.svg" alt="Snake animation" />
+
 ###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=kumarmilan02&icon=3&color=11)](https://visitcount.itsvg.in)
 
