@@ -41,4 +41,4 @@ My projects in machine learning or data science.
 <img src="https://github.com/kumarmilan02/kumarmilan02/raw/output/snake.svg" alt="Snake animation" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kumarmilan02&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Kumarmilan02&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
