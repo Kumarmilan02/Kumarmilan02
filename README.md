@@ -15,8 +15,8 @@ Scaling AI models and optimizing workflows.
 **I'm currently learning:**  
 Advanced ML models and their practical applications.
 
-**Ask me about:**  
-My projects in machine learning or data science.
+**Ask me about**  
+My projects are in machine learning or data science.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kumarmilan92) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milan-kumar-sahoo-6a3592225/)
@@ -31,6 +31,11 @@ My projects in machine learning or data science.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kumarmilan02&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Contribution Stats
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumarmilan02&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
