@@ -17,44 +17,135 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=600&color=14B8A6&center=true&vCenter=true&width=760&lines=%3C+building+scalable+software+%2F%3E;%3C+debugging+the+impossible+%2F%3E;%3C+exploring+AI+%2B+automation+%2F%3E;%3C+shipping+ideas+to+production+%2F%3E" alt="Developer terminal animation" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38BDF8,50:2563EB,100:7C3AED" />
+
+</div>
+
 ---
 
-## ⚡ Developer Mode
+## 🧬 Developer Profile
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM STATUS                                               │
-│                                                              │
-│  ROLE        :: SOFTWARE DEVELOPER                           │
-│  SPECIALTY   :: FULL-STACK ENGINEERING                       │
-│  CORE        :: JAVA • SPRING BOOT • ANGULAR                  │
-│  INTEREST    :: AI • ML • AUTOMATION                          │
-│  FOCUS       :: SCALABLE • CLEAN • SECURE SOFTWARE           │
-│                                                              │
-│  STATUS      :: ONLINE ● BUILDING ● LEARNING                 │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td align="center" width="25%">
 
-I'm a **Software Developer** focused on building scalable, maintainable, and production-ready applications.
+### ⚙️ ROLE
+**Software Developer**
 
-My core strength is **software engineering and full-stack development**, with a strong interest in **Artificial Intelligence, Machine Learning, automation, and intelligent software systems**.
+</td>
+<td align="center" width="25%">
 
-I enjoy exploring how emerging AI capabilities can be integrated into real software products and developer workflows.
+### 🏗️ BUILD
+**Full-Stack Systems**
 
-### 🧩 What I Work With
+</td>
+<td align="center" width="25%">
 
-- **Backend Engineering:** Java, Spring Boot, REST APIs, JPA, Hibernate
-- **Frontend Engineering:** Angular, TypeScript, HTML, CSS, responsive UI
-- **Architecture:** SOLID, Clean Architecture, DDD, scalable application design
-- **Data & Systems:** SQL, NoSQL, APIs, distributed application concepts
-- **Cloud & DevOps:** AWS, Azure, Google Cloud, GitHub Actions
-- **AI Exploration:** ML models, AI agents, intelligent automation, AI-powered applications
+### 🧠 EXPLORE
+**AI & Automation**
 
-### 🚀 Current Direction
+</td>
+<td align="center" width="25%">
 
-**Build software first. Explore AI deeply. Combine both when it creates real value.**
+### 🚀 MODE
+**Build • Learn • Ship**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/ENGINEERING-CLEAN%20%7C%20SCALABLE%20%7C%20SECURE-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-PRODUCTION%20SOFTWARE-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EXPLORING-AI%20%7C%20ML%20%7C%20AGENTS-14B8A6?style=for-the-badge" />
+
+</div>
+
+---
+
+## ✨ Build Loop
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=Think+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship;Code+%E2%86%92+Debug+%E2%86%92+Optimize+%E2%86%92+Repeat;Curious+Today+%E2%86%92+Better+Engineer+Tomorrow" alt="Build loop animation" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,50:2563EB,100:7C3AED&section=header" />
+
+<br>
+
+<table>
+<tr>
+<td align="center">💡<br><b>IDEATE</b></td>
+<td>→</td>
+<td align="center">🧩<br><b>DESIGN</b></td>
+<td>→</td>
+<td align="center">💻<br><b>BUILD</b></td>
+<td>→</td>
+<td align="center">🧪<br><b>TEST</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>SHIP</b></td>
+<td>→</td>
+<td align="center">🔁<br><b>IMPROVE</b></td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILD-ALWAYS_ON-38BDF8?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/LEARN-CONTINUOUSLY-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE-WITH_CURIOSITY-14B8A6?style=for-the-badge&logo=lightbulb&logoColor=white" />
+
+</div>
+
+---
+
+## 🔬 Currently Exploring
+
+<div align="center">
+
+`AI AGENTS` • `LLMs` • `MACHINE LEARNING` • `AUTOMATION` • `RAG` • `INTELLIGENT SYSTEMS`
+
+</div>
+
+I'm interested in the practical side of AI:
+
+- How AI can improve developer workflows
+- Building AI-powered features into existing applications
+- AI agents that can reason, execute, and automate tasks
+- Combining traditional software engineering with modern AI
+- Turning experiments into reliable production systems
+
+---
+
+## 🧱 Engineering Principles
+
+| Principle | What it means to me |
+|---|---|
+| **Clean Code** | Readable code that another developer can understand quickly |
+| **Scalability** | Design systems that can grow without becoming fragile |
+| **Security** | Treat security as part of engineering, not an afterthought |
+| **Automation** | Automate repetitive work whenever it makes sense |
+| **Observability** | Build systems that are easy to monitor and debug |
+| **Continuous Learning** | Keep improving tools, architecture, and problem-solving |
+
+---
+
+## 🎯 What I'm Working Toward
+
+**Software Engineering + AI = Smarter Products**
+
+My goal is not to simply follow every new AI trend. I want to understand the technology, identify where it genuinely helps, and integrate it into software that people can actually use.
 
 ---
 
@@ -149,6 +240,39 @@ I enjoy exploring how emerging AI capabilities can be integrated into real softw
 
 ---
 
+## 🌐 Developer Signal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular;Clean+Architecture+%7C+Scalable+Systems;AI+%7C+Automation+%7C+Intelligent+Applications;Always+curious.+Always+building." alt="Developer signal animation" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/01-SOFTWARE-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/02-ENGINEERING-38BDF8?style=flat-square" />
+<img src="https://img.shields.io/badge/03-AUTOMATION-14B8A6?style=flat-square" />
+<img src="https://img.shields.io/badge/04-AI%20EXPLORATION-7C3AED?style=flat-square" />
+
+</div>
+
+---
+
+## ⚡ Activity Pulse
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=COMPILE+%E2%9C%93+%7C+TEST+%E2%9C%93+%7C+DEPLOY+%E2%9C%93;SYSTEMS+ONLINE+%E2%80%A2+IDEAS+IN+MOTION;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+ITERATING" alt="Activity pulse animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/%E2%97%8F-LIVE_BUILDING-38BDF8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E2%97%8F-CODE_IN_MOTION-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E2%97%8F-AI_EXPLORATION-14B8A6?style=for-the-badge" />
+
+</div>
+
+---
+
 # 📡 GitHub Telemetry
 
 <div align="center">
@@ -183,7 +307,17 @@ I enjoy exploring how emerging AI capabilities can be integrated into real softw
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumarmilan02&radius=12&theme=github-compact&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumarmilan02&radius=16&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Pulse" />
+
+</div>
+
+---
+
+## 📡 Contribution Radar
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumarmilan02&hide_border=true&theme=transparent&fire=38BDF8&ring=2563EB&currStreakLabel=14B8A6" />
 
 </div>
 
@@ -233,7 +367,7 @@ I enjoy exploring how emerging AI capabilities can be integrated into real softw
 
 <br>
 
-**⚡ CODE • CREATE • EXPLORE • EVOLVE ⚡**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=700&color=38BDF8&center=true&vCenter=true&width=720&lines=%E2%9A%A1+CODE+%E2%80%A2+CREATE+%E2%80%A2+EXPLORE+%E2%80%A2+EVOLVE;%F0%9F%9A%80+BUILDING+THE+NEXT+THING;%F0%9F%A7%A0+LEARNING+SOMETHING+NEW;%F0%9F%94%A7+MAKING+SOFTWARE+BETTER" alt="Animated footer" />
 
 <br>
 
